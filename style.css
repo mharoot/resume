@@ -16,3 +16,7 @@
   .interests-images img{width: 100px;
     height: 100px;
     object-fit: cover;}
+
+     .interests-images img:nth-child(3){
+        width:150px;
+     }
